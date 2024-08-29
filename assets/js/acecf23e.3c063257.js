@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuana_academy=self.webpackChunkbuana_academy||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/academy/blog","blogTitle":"Blog","authorsListPath":"/academy/blog/authors"}')}}]);
