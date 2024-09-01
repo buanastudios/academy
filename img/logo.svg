@@ -5,7 +5,7 @@
    viewBox="0 0 200 200"
    version="1.1"
    id="svg34"
-   sodipodi:docname="logo-buana-academy.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -14,6 +14,30 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs38">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1755">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop1751" />
+      <stop
+         style="stop-color:#ffdd55;stop-opacity:1"
+         offset="1"
+         id="stop1753" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1681">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop1677" />
+      <stop
+         style="stop-color:#ffdd55;stop-opacity:1"
+         offset="1"
+         id="stop1679" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4176"
@@ -74,6 +98,24 @@
        y1="182.38066"
        x2="181.57581"
        y2="79.799362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1681"
+       id="linearGradient1683"
+       x1="108.87672"
+       y1="247.3764"
+       x2="201.68549"
+       y2="85.709526"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1755"
+       id="linearGradient1685"
+       x1="108.87672"
+       y1="247.3764"
+       x2="201.68549"
+       y2="85.709526"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview36"
@@ -86,7 +128,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4654788"
-     inkscape:cx="73.354865"
+     inkscape:cx="19.447569"
      inkscape:cy="100.30851"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -99,13 +141,13 @@
      transform="matrix(1.5954794,0,0,1.5954794,-190.08746,-126.51222)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.4413px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#fdfdfd;fill-opacity:1;stroke-width:1.04402"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.4413px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:url(#linearGradient1685);fill-opacity:1;stroke-width:1.04402"
        x="153.81967"
        y="177.543"
        id="text3345"><tspan
          sodipodi:role="line"
          id="tspan3343"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.4413px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#fdfdfd;fill-opacity:1;stroke-width:1.04402"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.4413px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:url(#linearGradient1685);fill-opacity:1;stroke-width:1.04402"
          x="153.81967"
          y="177.543">B</tspan></text>
     <g
@@ -123,7 +165,7 @@
     </g>
     <path
        id="path3357"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.4413px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#fdfdfd;fill-opacity:1;stroke-width:1.04402"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.4413px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:url(#linearGradient1683);fill-opacity:1;stroke-width:1.04402"
        d="m 161.62269,109.31529 v 28.07013 h 42.13283 c 0.95299,-0.72003 1.83342,-1.5271 2.6386,-2.42518 2.50581,-2.75956 3.75894,-5.97942 3.75894,-9.65884 0,-5.07506 -2.04584,-9.008 -6.13761,-11.79928 -4.09177,-2.79129 -9.94395,-4.18683 -17.55655,-4.18683 z m 15.36806,11.32334 h 5.75675 c 7.48572,0 11.22877,2.50575 11.22877,7.51738 0,2.69612 -0.91981,4.8216 -2.75952,6.37583 -1.80799,1.52252 -4.29791,2.28358 -7.46983,2.28358 h -6.75617 z" />
     <path
        style="fill:url(#linearGradient4186);fill-opacity:1;stroke-width:0.0659608"
